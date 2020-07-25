@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: -->
 
-- 🌱 I’m currently learning ReactJS and .Net Core
-- 💬 Ask me about Front-End, UI, Angular
+- 🌱 I’m currently learning: ReactJS and .Net Core
+- 💬 Ask me about: Front-End, UI, Angular
 - 📫 How to reach me: Email: iamdevchhaniyara@gmail.com, Instagram/Twitter: @oneofthedevs
