@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-oneofthedevs-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oneofthedevs/ "oneofthedevs")](https://www.linkedin.com/in/oneofthedevs/) [![Instagram Badge](https://img.shields.io/badge/-oneofthedevs-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oneofthedevs/ "oneofthedevs")](https://instagram.com/oneofthedevs) [![Twitter Badge](https://img.shields.io/badge/-oneofthedevs-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://instagram.com/oneofthedevs/ "oneofthedevs")](https://twitter.com/oneofthedevs) [![Gmail Badge](https://img.shields.io/badge/-iamdevchhaniyara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamdevchhaniyara@gmail.com "iamdevchhaniyara@gmail.com")](mailto:iamdevchhaniyara@gmail.com)
 
 ### 🐱‍🐉 Fancy Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=oneofthedevs&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneofthedevs&hide=TeX&layout=compact)
+[//]: # ![Github Stats](https://github-readme-stats.vercel.app/api?username=oneofthedevs&count_private=true&show_icons=true&include_all_commits=true)
+[//]: # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneofthedevs&hide=TeX&layout=compact)
